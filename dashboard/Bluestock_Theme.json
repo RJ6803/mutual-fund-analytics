@@ -1,0 +1,66 @@
+{
+    "name": "Bluestock Theme",
+    "dataColors": [
+        "#414BEA",
+        "#525CEB",
+        "#7752FE",
+        "#190482",
+        "#F05537",
+        "#C2D9FF",
+        "#BFCFE7",
+        "#DDF2FD",
+        "#D9E2FF",
+        "#F8EDFF",
+        "#3D3B40",
+        "#222222"
+    ],
+    "background": "#FFFFFF",
+    "foreground": "#222222",
+    "tableAccent": "#414BEA",
+    "good": "#414BEA",
+    "neutral": "#7752FE",
+    "bad": "#F05537",
+    "visualStyles": {
+        "*": {
+            "*": {
+                "title": [
+                    {
+                        "show": true,
+                        "fontSize": 14,
+                        "fontFamily": "Segoe UI",
+                        "color": {
+                            "solid": {
+                                "color": "#222222"
+                            }
+                        }
+                    }
+                ],
+                "labels": [
+                    {
+                        "color": {
+                            "solid": {
+                                "color": "#222222"
+                            }
+                        }
+                    }
+                ],
+                "background": [
+                    {
+                        "show": false,
+                        "color": {
+                            "solid": {
+                                "color": "#FFFFFF"
+                            }
+                        },
+                        "transparency": 100
+                    }
+                ],
+                "border": [
+                    {
+                        "show": false
+                    }
+                ]
+            }
+        }
+    }
+}
